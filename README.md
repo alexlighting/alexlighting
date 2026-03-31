@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Мое резюме
 
- <a href="https://drive.google.com/file/d/1BHF4vsNx5UBINjks3rVjglRm4Qrf9DEM/view?usp=drive_link"> <img src="https://img.icons8.com/?size=100&id=rdvNA7FbNRcs&format=png&color=000000" alt="Resume"> </a>
+ <a href="https://drive.google.com/file/d/1N9s5CbBTsud8SlJTWew0pbdyJgiLgHpG/view?usp=sharing"> <img src="https://img.icons8.com/?size=100&id=rdvNA7FbNRcs&format=png&color=000000" alt="Resume"> </a>
 
 ### Есть вопросы - напишите мне:
 * <a href="mailto:alex.derkachev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"></a>
