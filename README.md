@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Я Деркачёв Александр, Разработчик с 18‑летним опытом в C++/Qt, с активным переходом в Golang. 
+Я Деркачёв Александр, Разработчик с 18‑летним опытом в C++/Qt, целенаправленно перехожу на Golang 
 ### Что я умею и чем пользуюсь:
 
 #### Языки: ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![QML](https://img.shields.io/badge/QML-%23217346.svg?style=for-the-badge&logo=QML&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -30,9 +30,9 @@ Here are some ideas to get you started:
  <a href="https://drive.google.com/file/d/1N9s5CbBTsud8SlJTWew0pbdyJgiLgHpG/view?usp=sharing"> <img src="https://img.icons8.com/?size=100&id=rdvNA7FbNRcs&format=png&color=000000" alt="Resume"> </a>
 
 ### Есть вопросы - напишите мне:
-* <a href="mailto:alex.derkachev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"></a>
+* <a href="mailto:alex.derkachev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=alex.derkachev@gmail.com&logoColor=white" alt="GMail"></a>
 * <a href="https://max.ru/u/f9LHodD0cOL1xyDLoRD8jMXuqiCi8tWTzohnxz5jCO5u_NjKzvEJTP2B6YU"><img src="https://img.shields.io/badge/Max-0078D7?style=for-the-badge&logo=Max&logoColor=white" alt="Max"></a>
-* <a href="https://t.me/alex_derkachev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+* <a href="https://t.me/alex_derkachev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=@alex_derkachev&logoColor=white" alt="Telegram"></a>
 
 или позвоните
 <a href="tel:+79611817040"><img src="https://img.icons8.com/?size=48&id=96403&format=png" alt="Call me"></a>
