@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Я Деркачёв Александр, Разработчик с 18‑летним опытом в C++/Qt, целенаправленно перехожу на Golang 
+Я Деркачёв Александр, Разработчик с 18‑летним опытом в C++/Qt, целенаправленно перехожу на Golang поскольку мне нравится что код на Go получается четким, лаконичным и эффективным.
 ### Что я умею и чем пользуюсь:
 
 #### Языки: ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![QML](https://img.shields.io/badge/QML-%23217346.svg?style=for-the-badge&logo=QML&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
